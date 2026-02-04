@@ -1,3 +1,5 @@
-![CI](https://github.com/FikuSS14/dom-game-hw/actions/workflows/web.yml/badge.svg)
+# Popover Homework
 
-Live demo: https://fikuss14.github.io/dom-game-hw/
+[![Build Status](https://github.com/FikuSS14/bootstrap-popovers/actions/workflows/deploy.yml/badge.svg)](https://github.com/FikuSS14/bootstrap-popovers/actions)
+
+Демо: [https://FikuSS14.github.io/bootstrap-popovers/](https:/FikuSS14.github.io/bootstrap-popovers/)
